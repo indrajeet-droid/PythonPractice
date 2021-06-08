@@ -38,3 +38,5 @@ print(x)
 # for example suppose you want to display x value is + str(x)----we can't display string and int together
 
 print("x value is "+ str(x))
+
+print(z*3)
